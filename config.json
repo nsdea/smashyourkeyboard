@@ -1,0 +1,6 @@
+{
+    "unmute_after_not_typing_for_seconds": 0.4,
+    "discord_mute_hotkey_scancode": 76,
+    "update_typing_check_seconds": 0.2,
+    "muted_on_start": false
+}
